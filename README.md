@@ -8,5 +8,5 @@ Free resource for the games:
 
 ## Images
 | [SkyDodge](https://github.com/belushkin) |
-| :---: | :---: |
+| :---: |
 | ![](./images/image.png) |
