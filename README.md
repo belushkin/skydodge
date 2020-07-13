@@ -7,6 +7,6 @@ Free resource for the games:
 * Freesound: sounds and sound effects
 
 ## Images
-| [SkyDodge](https://github.com/belushkin) | [Certificate](https://realpython.com/certificates/7a38bfd2-88fd-4620-a6e1-5c3dbe728160/) |
+| [SkyDodge](https://github.com/belushkin) |
 | :---: | :---: |
-| ![](./images/image.png) | ![](./images/image_1.png) |
+| ![](./images/image.png) |
